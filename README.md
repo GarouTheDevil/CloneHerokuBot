@@ -56,6 +56,9 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://telegra.ph/Temporary-Heroku-Deployment-Method-for-MSGuite-CloneBot-11-23)
 
+Method 3 : 
+
+[![Deploy](https://dashboard.heroku.com/deploy?template=https://github.com/GarouTheDevil/CloneHerokuBot)]
 
 
 ## ☂ Deploying on Railway.app
